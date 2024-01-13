@@ -1,0 +1,15 @@
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest3\bin\Debug\net8.0\ConsoleAppTest3.exe
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest3\bin\Debug\net8.0\ConsoleAppTest3.deps.json
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest3\bin\Debug\net8.0\ConsoleAppTest3.runtimeconfig.json
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest3\bin\Debug\net8.0\ConsoleAppTest3.dll
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest3\bin\Debug\net8.0\ConsoleAppTest3.pdb
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest3\obj\Debug\net8.0\ConsoleAppTest3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest3\obj\Debug\net8.0\ConsoleAppTest3.AssemblyInfoInputs.cache
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest3\obj\Debug\net8.0\ConsoleAppTest3.AssemblyInfo.cs
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest3\obj\Debug\net8.0\ConsoleAppTest3.csproj.CoreCompileInputs.cache
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest3\obj\Debug\net8.0\ConsoleAppTest3.sourcelink.json
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest3\obj\Debug\net8.0\ConsoleAppTest3.dll
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest3\obj\Debug\net8.0\refint\ConsoleAppTest3.dll
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest3\obj\Debug\net8.0\ConsoleAppTest3.pdb
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest3\obj\Debug\net8.0\ConsoleAppTest3.genruntimeconfig.cache
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest3\obj\Debug\net8.0\ref\ConsoleAppTest3.dll

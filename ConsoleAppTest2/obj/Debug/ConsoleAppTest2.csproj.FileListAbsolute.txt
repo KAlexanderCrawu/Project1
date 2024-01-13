@@ -1,0 +1,7 @@
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest2\bin\Debug\ConsoleAppTest2.exe.config
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest2\bin\Debug\ConsoleAppTest2.exe
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest2\bin\Debug\ConsoleAppTest2.pdb
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest2\obj\Debug\ConsoleAppTest2.csproj.AssemblyReference.cache
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest2\obj\Debug\ConsoleAppTest2.csproj.CoreCompileInputs.cache
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest2\obj\Debug\ConsoleAppTest2.exe
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest2\obj\Debug\ConsoleAppTest2.pdb

@@ -1,0 +1,15 @@
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest4\obj\Debug\net8.0\ConsoleAppTest4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest4\obj\Debug\net8.0\ConsoleAppTest4.AssemblyInfoInputs.cache
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest4\obj\Debug\net8.0\ConsoleAppTest4.AssemblyInfo.cs
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest4\obj\Debug\net8.0\ConsoleAppTest4.csproj.CoreCompileInputs.cache
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest4\obj\Debug\net8.0\ConsoleAppTest4.sourcelink.json
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest4\bin\Debug\net8.0\ConsoleAppTest4.exe
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest4\bin\Debug\net8.0\ConsoleAppTest4.deps.json
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest4\bin\Debug\net8.0\ConsoleAppTest4.runtimeconfig.json
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest4\bin\Debug\net8.0\ConsoleAppTest4.dll
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest4\bin\Debug\net8.0\ConsoleAppTest4.pdb
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest4\obj\Debug\net8.0\ConsoleAppTest4.dll
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest4\obj\Debug\net8.0\refint\ConsoleAppTest4.dll
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest4\obj\Debug\net8.0\ConsoleAppTest4.pdb
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest4\obj\Debug\net8.0\ConsoleAppTest4.genruntimeconfig.cache
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\ConsoleAppTest4\obj\Debug\net8.0\ref\ConsoleAppTest4.dll

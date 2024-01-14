@@ -1,0 +1,15 @@
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\Consoletest9\bin\Debug\net8.0\Consoletest9.exe
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\Consoletest9\bin\Debug\net8.0\Consoletest9.deps.json
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\Consoletest9\bin\Debug\net8.0\Consoletest9.runtimeconfig.json
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\Consoletest9\bin\Debug\net8.0\Consoletest9.dll
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\Consoletest9\bin\Debug\net8.0\Consoletest9.pdb
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\Consoletest9\obj\Debug\net8.0\Consoletest9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\Consoletest9\obj\Debug\net8.0\Consoletest9.AssemblyInfoInputs.cache
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\Consoletest9\obj\Debug\net8.0\Consoletest9.AssemblyInfo.cs
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\Consoletest9\obj\Debug\net8.0\Consoletest9.csproj.CoreCompileInputs.cache
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\Consoletest9\obj\Debug\net8.0\Consoletest9.sourcelink.json
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\Consoletest9\obj\Debug\net8.0\Consoletest9.dll
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\Consoletest9\obj\Debug\net8.0\refint\Consoletest9.dll
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\Consoletest9\obj\Debug\net8.0\Consoletest9.pdb
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\Consoletest9\obj\Debug\net8.0\Consoletest9.genruntimeconfig.cache
+C:\Users\K. Alexander Crawu\Desktop\Visual Programming Work\Consoletest9\obj\Debug\net8.0\ref\Consoletest9.dll
